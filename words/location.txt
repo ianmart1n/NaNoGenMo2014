@@ -1,0 +1,25 @@
+town square
+police station
+fire station
+bookstore
+main street
+stables
+racetrack
+school
+community centre
+nature trail
+forest
+museum of natural history
+graveyard
+foundry
+shop
+gas station
+church
+park
+bog
+dog park
+soccer field
+farm
+bandstand
+recreation centre
+bakery
